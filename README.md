@@ -17,8 +17,6 @@ use:
 in order to modify 
 and print the data according to user’s needs. 
 
-This project is simple to 
-use and very user-friendly. 
 
 This is a Basic Implementation of C++ and Data Structure & Algorithm Concepts.
 
